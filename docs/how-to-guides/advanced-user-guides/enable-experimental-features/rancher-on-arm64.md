@@ -1,5 +1,5 @@
 ---
-title: "Running on ARM64 Dual Stack Architecture (Experimental)"
+title: "Running on ARM64 Mixed Architecture (Experimental)"
 ---
 
 <head>
@@ -8,7 +8,7 @@ title: "Running on ARM64 Dual Stack Architecture (Experimental)"
 
 :::caution
 
-Running on an ARM64 dual stack platform is currently an experimental feature and is not yet officially supported in Rancher. Therefore, we do not recommend using ARM64 dual stack based nodes in a production environment.
+Running on an ARM64 mixed architecure platform is currently an experimental feature and is not yet officially supported in Rancher. Therefore, we do not recommend using ARM64 mixed architecure based nodes in a production environment.
 
 :::
 
